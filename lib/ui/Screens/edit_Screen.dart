@@ -1,4 +1,4 @@
-import 'package:firebase_image/firebase_image.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:visual_notes/business%20_logic/add_visual_cubit.dart';
